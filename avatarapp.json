@@ -1,0 +1,15 @@
+{
+  "apps": {
+  },
+  "templates": {
+  },
+  "scripts": [
+    "./myapp.js"
+  ],
+  "css": [
+    "./myapp.css"
+  ],
+  "components": [
+    "myapp-confabulator"
+  ]
+}

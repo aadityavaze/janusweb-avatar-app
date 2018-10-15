@@ -1,0 +1,14 @@
+/* 
+ * We've defined a new HTML element, <myapp-confabulator>, so our selector is an element selector
+ * No classes or id necessary, but of course, always supported!
+*/
+myapp-confabulator {
+  display: block;
+  border: 1px solid black;
+  background: #900;
+  padding: .5em;
+}
+/* Attribute-based selectors are very useful for styling the various states of our custom element */
+myapp-confabulator[done] {
+  background: #090;
+}
