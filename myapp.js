@@ -21,4 +21,3 @@ elation.elements.define('myapp-confabulator', class extends elation.elements.bas
     this.done = true;
   }
 });
-});
