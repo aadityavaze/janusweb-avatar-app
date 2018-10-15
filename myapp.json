@@ -4,10 +4,10 @@
   "templates": {
   },
   "scripts": [
-    "./avatarapp.js"
+    "./myapp.js"
   ],
   "css": [
-    "./avatarapp.css"
+    "./myapp.css"
   ],
   "components": [
     "myapp-confabulator"
